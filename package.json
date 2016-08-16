@@ -1,15 +1,15 @@
 {
-  "name": "devschool",
+  "name": "strengthen-our-sisters",
   "version": "0.0.1",
-  "description": "Devschool website powered by gulp",
+  "description": "strengthen our sisters website",
   "engines": {
     "node": "4.2.4",
     "npm": "2.14.12"
   },
-  "homepage": "https://devschool.rocks",
+  "homepage": "https://strengthenoursisters-staging.org",
   "repository": {
     "type": "git",
-    "url": "git@github.com:devschool-rocks/homepage.git"
+    "url": "git@github.com:joecarlino/Strengthenoursisters"
   },
   "devDependencies": {
     "browser-sync": "^2.12.10",
